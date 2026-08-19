@@ -1,4 +1,6 @@
 # TG4
+## Favor completar antes del jueves, con los integrantes.
+https://forms.gle/SzytmKKzDxhuqYAt6
 ## 7.2 Conectividad y Seguridad de Redes  profundización
 ### HITO 1: Diseño y análisis de arquitectura segura
 Presentación del diseño de la arquitectura de red con enfoque en seguridad(I).
